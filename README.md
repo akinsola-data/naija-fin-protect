@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 As financial technology rapidly scales across Africa, fraudulent attacks have evolved. Millions of dollars are lost to phishing scams, fake lottery alerts, and unauthorized loan shark extortion ("gbomo gbomo / shylock loan apps"). 
 
@@ -21,7 +21,7 @@ A major vulnerability in current bank fraud detection systems is that they rely 
 
 ---
 
-## 🏗️ Project Architecture & Skills Stack
+##  Project Architecture & Skills Stack
 
 This repository demonstrates the complete AI engineering lifecycle from raw text to cloud deployment:
 
