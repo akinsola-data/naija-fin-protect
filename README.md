@@ -36,7 +36,7 @@ This repository demonstrates the complete AI engineering lifecycle from raw text
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 naija-fin-protect/
@@ -65,7 +65,7 @@ naija-fin-protect/
 
 ---
 
-## 📊 Evaluation Metrics & Model Telemetry
+## Evaluation Metrics & Model Telemetry
 
 ### 1. Multilingual Data Representation & Class Balance
 ```text
@@ -94,7 +94,7 @@ naija-fin-protect/
 
 ---
 
-## 🛠️ Installation & Cloud Deployment Guide
+##  Installation & Cloud Deployment Guide
 
 ### Option 1: Running via Docker (Recommended MLOps Method)
 1. Ensure Docker Desktop is running on your machine.
